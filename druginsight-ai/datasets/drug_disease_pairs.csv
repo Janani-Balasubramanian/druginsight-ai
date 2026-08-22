@@ -1,0 +1,13 @@
+drug,disease,target,label,molecular_weight,logp,hbd,hba,tpsa,activity
+Aspirin,Cardiovascular Disease,PTGS2,1,180.16,1.19,1,4,63.6,0.82
+Metformin,Type 2 Diabetes,AMPK,1,129.16,-1.43,4,2,91.5,0.91
+Donepezil,Alzheimer's Disease,ACHE,1,379.49,4.27,0,4,42.7,0.88
+Ibuprofen,Inflammation,PTGS2,1,206.28,3.97,1,2,37.3,0.79
+Sildenafil,Pulmonary Hypertension,PDE5A,1,474.58,2.7,1,7,113.0,0.85
+Aspirin,Alzheimer's Disease,PTGS2,0,180.16,1.19,1,4,63.6,0.35
+Metformin,Alzheimer's Disease,AMPK,0,129.16,-1.43,4,2,91.5,0.42
+Donepezil,Cardiovascular Disease,ACHE,0,379.49,4.27,0,4,42.7,0.28
+Ibuprofen,Type 2 Diabetes,PTGS2,0,206.28,3.97,1,2,37.3,0.31
+Sildenafil,Inflammation,PDE5A,0,474.58,2.7,1,7,113.0,0.22
+Memantine,Alzheimer's Disease,GRIN1,1,179.30,3.31,2,1,26.0,0.76
+Galantamine,Alzheimer's Disease,ACHE,1,287.35,1.68,2,4,41.5,0.81
